@@ -1,4 +1,4 @@
-# ASP .Net Core Developer Assignment: Queue Management System
+# ASP.Net Core Developer Assignment: Queue Management System
 
 The assignment involves the creation of a Queue Management System using ASP.NET Core. Please use the following libraries/tools and the stated versions:
 
@@ -40,10 +40,11 @@ Create a simple Queue Management System with the following pages:
 
 ## How to work on the assignment
 
-- Clone this repository.
+- Fork this repository.
+- Clone your forked repository.
 - Start working on the assignment.
 - Ensure to do periodic commits with meaningful commit messages.
-- Once you are done, push your final results.
+- Once you are done, push your work to your forked repository and finally submit a pull request to the upstream repository.
 - If you don't want to create a public repository please invite (@hanmaktechltd) to your working repository.
 - Please include a brief description of how to run your solution and also include a copy of the database schema.
 - If you have any questions contact us (<hr@hanmak.co.ke>)
